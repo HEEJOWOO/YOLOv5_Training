@@ -1,6 +1,16 @@
 # YOLOv5_Training
   * Pytroch, RTX 3090 24G, Ubuntu 18.04 LTS
-  * 
+  * [YOLOv5](github.com/ultralytics/yolov5) 파일 이용
+
+Train
+-----
+ * 1) 가상환경 생성
+ * 2) 
+<pre>
+<code>
+$ git clone https://github.com/ultralytics/yolov5.git
+</code>
+</pre>
   
 |Drawing(custom dataset)|Bus & People|Car|
 |-------|---|---|
