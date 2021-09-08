@@ -17,7 +17,7 @@ $ git clone https://github.com/ultralytics/yolov5.git
 </pre>
   * 3) train(img, label), valid(img, label) 다운로드 ex) MS COCO, Visdrone 등, [다운로드 사이트](https://roboflow.com/)
   * 4) 다운로드한 데이터 셋에 관하여 주소들을 txt 파일로 합친 뒤 경로 재설정 : dataset_glob.py
-  * 5) data.yaml 파일의 데이터 셋 경로 변경
+  * 5) data.yaml 파일의 데이터 셋 경로 변경 : dataroot.py
   * 6)
 <pre>
 <code>
