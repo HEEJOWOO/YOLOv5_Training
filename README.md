@@ -35,7 +35,7 @@ $ python3 detect.py --weights "학습된 가중치 경로"/weights/best.pt --img
 
 
 |Drawing(custom dataset)|Bus & People|
-|-------|---|---|
+|-------|---|
 |![592](https://user-images.githubusercontent.com/61686244/132509503-cb0be8f5-f149-4654-ad01-990469c95df1.png)|![bus](https://user-images.githubusercontent.com/61686244/132508744-9ccaf69a-4e50-406d-9a3c-c85009780c53.jpg)|
 
 |VisDrone2019|
