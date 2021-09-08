@@ -2,6 +2,10 @@
   * Pytroch, RTX 3090 24G, Ubuntu 18.04 LTS
   * [YOLOv5](github.com/ultralytics/yolov5) 파일 이용
 
+![image](https://user-images.githubusercontent.com/61686244/132514416-5ea0fea6-95c8-4c06-bfcb-c35cbc903537.png)
+
+ * s,m,l,x 모델 제공 
+
 Train
 -----
  * 1) 가상환경 생성
