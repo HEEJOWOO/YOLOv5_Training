@@ -38,8 +38,8 @@ $ python3 detect.py --weights "학습된 가중치 경로"/weights/best.pt --img
 |-----------------------|-|-|
 |-|![99](https://user-images.githubusercontent.com/61686244/132516012-19659e4e-dc43-4cb6-aae9-c7c43b803c45.png)|![592](https://user-images.githubusercontent.com/61686244/132516433-70dae165-daba-40b0-924b-e91cfd9bddc4.png)|
 
-|VisDrone2019|
-||
+|VisDrone2019|-|-|-|
+|-|![9999995_00000_d_0000020](https://user-images.githubusercontent.com/61686244/132609330-10724e7f-4ac2-46ae-b330-8698dda3074e.jpg)|![9999992_00000_d_0000044](https://user-images.githubusercontent.com/61686244/132609455-a845f87f-9242-4ee0-af95-52f13274cc80.jpg)|![9999983_00000_d_0000152](https://user-images.githubusercontent.com/61686244/132609607-3cf9003e-4177-480b-9cd7-fd96dec7a90c.jpg)|
 
 
 
