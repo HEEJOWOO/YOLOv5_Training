@@ -54,7 +54,7 @@ SuperResolution+Detection Result
 ------------------------------------------
 
 * visdrone2019 test 저해상도 영상을 bicubic과 [RDSRN](https://github.com/HEEJOWOO/RDSRN) 을 이용하여 업 샘플을 진행 한 뒤 detection한 결과
-* 노이즈를가한 영상에 4x 초해상도(1360x765 -> 5440x3060) 진행 후 detection한 결과(left : [RDSRN](https://github.com/HEEJOWOO/RDSRN), right : bicubic)
+
 
 |Ground Truth(1400x788)|Input(350x197)|Bicubic Upsample(1400x788)|Super Resolution(1400x788)|
 |-----------------------|-------------|--------------------------|--------------------------|
@@ -62,5 +62,7 @@ SuperResolution+Detection Result
 
 Video SR+Detection Result
 -------------------------
+ * 320 x 180 to 1280 x 720
  * left : bicubic, right : [RDSRN](https://github.com/HEEJOWOO/RDSRN)
 
+![ezgif com-gif-maker (4)](https://user-images.githubusercontent.com/61686244/132621611-67f7e5cc-6ec3-44b9-bc9e-2136710ffc8e.gif)
