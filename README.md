@@ -62,7 +62,7 @@ SuperResolution+Detection Result
 
 Video SR+Detection Result
 -------------------------
- * 320 x 180 to 1280 x 720
+ * 320 x 180 to 1280 x 720 변환 후 Detection 
  * left : bicubic, right : [RDSRN](https://github.com/HEEJOWOO/RDSRN)
 
 ![ezgif com-gif-maker (4)](https://user-images.githubusercontent.com/61686244/132621611-67f7e5cc-6ec3-44b9-bc9e-2136710ffc8e.gif)
