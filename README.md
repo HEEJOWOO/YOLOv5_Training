@@ -45,7 +45,7 @@ $ python3 detect.py --weights "학습된 가중치 경로"/weights/best.pt --img
 SuperResolution+Denoising+Detection Result
 ------------------------------------------
 
- * visdrone2019 test영상에 노이즈를 가하여 4x 초해상도(1360x765 -> 5440x3060) 진행 후 detection한 결과(left : [RDSRN](https://github.com/HEEJOWOO/RDSRN), right : bicubic)
+ * visdrone2019 test영상에 노이즈를가한 영상에 4x 초해상도(1360x765 -> 5440x3060) 진행 후 detection한 결과(left : [RDSRN](https://github.com/HEEJOWOO/RDSRN), right : bicubic)
 
 ![image](https://user-images.githubusercontent.com/61686244/132610308-23e117d8-97de-4cfb-86d2-985efce385a2.png)
 
