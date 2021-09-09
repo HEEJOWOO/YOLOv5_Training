@@ -67,5 +67,6 @@ Video SR+Detection Result
 
 ![ezgif com-gif-maker (4)](https://user-images.githubusercontent.com/61686244/132621611-67f7e5cc-6ec3-44b9-bc9e-2136710ffc8e.gif)
 
+![ezgif com-gif-maker (6)](https://user-images.githubusercontent.com/61686244/132624318-5c4bdbea-e9bb-4f55-836f-32bc16264ec4.gif)
 
 
