@@ -58,7 +58,7 @@ SuperResolution+Detection Result
 
 |Ground Truth(1400x788)|Input(350x197)|Bicubic Upsample(1400x788)|Super Resolution(1400x788)|
 |-----------------------|-------------|--------------------------|--------------------------|
-|![100981](https://user-images.githubusercontent.com/61686244/132611822-f2499571-eb40-4da3-969e-fb5ff5092d24.png)|![13_input_x4](https://user-images.githubusercontent.com/61686244/132611811-9d2426ed-c228-4cc6-b7b6-492e7d01d896.png)|![13_bicubic_x4](https://user-images.githubusercontent.com/61686244/132611759-56124e02-1851-4bd5-b201-4836d5877d0f.png)|![13_SR_x4](https://user-images.githubusercontent.com/61686244/132611739-8326de56-9ec9-4d97-96d2-5c28668b16f5.png)|
+|![100981](https://user-images.githubusercontent.com/61686244/132611822-f2499571-eb40-4da3-969e-fb5ff5092d24.png)|![13_input_x4](https://user-images.githubusercontent.com/61686244/132612042-7eb4849a-889f-4460-b686-6cce3c13f7dc.png)|![13_bicubic_x4](https://user-images.githubusercontent.com/61686244/132611759-56124e02-1851-4bd5-b201-4836d5877d0f.png)|![13_SR_x4](https://user-images.githubusercontent.com/61686244/132611739-8326de56-9ec9-4d97-96d2-5c28668b16f5.png)|
 
 
 
