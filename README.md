@@ -64,6 +64,7 @@ Video SR+Detection Result
 -------------------------
  * 320 x 180 to 1280 x 720 변환 후 Detection 
  * left : bicubic, right : [RDSRN](https://github.com/HEEJOWOO/RDSRN)
+ * 기존 bicubic을 사용했을때 찾지 못했던 가방을 초해상도 네트워크를 사용했을 때 찾음
 
 ![ezgif com-gif-maker (4)](https://user-images.githubusercontent.com/61686244/132621611-67f7e5cc-6ec3-44b9-bc9e-2136710ffc8e.gif)
 
